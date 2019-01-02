@@ -306,7 +306,7 @@ export default {
 
 #### Implementation for Surge
 
-Surge [can handle](https://surge.sh/help/adding-a-custom-404-not-found-page) both `200.html` and `404.html`. `generate.fallback` is set to `200.html` by default, so no need to change it.
+[Surge can handle](https://surge.sh/help/adding-a-custom-404-not-found-page) both `200.html` and `404.html`. `generate.fallback` is set to `200.html` by default, so no need to change it.
 
 #### Implementation for GitHub Pages and Netlify
 
